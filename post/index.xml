@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kanishka Tamang</title>
+    <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/</link>
+    <description>Recent content in Projects on Kanishka Tamang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Case Study of Vaccine Deployment Stategy</title>
+      <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-3/</link>
+      <pubDate>Wed, 11 Nov 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-3/</guid>
+      <description>Executive Summary   As of September 2020, COVID-19 disease has infected around 32.7 million people with close to one million death worldwide where United States currently as the country with highest cumulative number of cases, stands at around 6.7 million cases. This pandemic has adversely impacted live of millions of people around the world with economic impact at its core. Fortunately, to date there are at least 3 companies have advanced to late-stage testing for potential COVID-19 vaccines.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Contraceptive Use with Supervised learning models</title>
+      <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-2/</link>
+      <pubDate>Tue, 10 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-2/</guid>
+      <description>Executive Summary Family Planning refers to the ability of a couple to give birth to the desired number of children and to have the best age gap (preferably 24 months) between the first and second child (WHO,2020). Primarily, family planning helps to reduce the need for an abortion of a child and sometimes the death of a mother. Due to the revolution of medical science, there is now a low death rate and with the increase in unplanned children, there would be a spike in the global population further having a derogative effect on the economy.</description>
+    </item>
+    
+    <item>
+      <title>Analysing the effect of protein which impacts the recovering ability in mice with down syndrome</title>
+      <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-1/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-1/</guid>
+      <description>Down Syndrome (DS) is a genetic disorder which is mainly due to extra genetic material from chromosome 21 therefore the people with Down syndrome have 47 chromosomes. The symptoms of Down syndrome include poor judgement, short attention span and cognitive impairment (CPL, 2020). In order to evaluate the effects of the drug to diagnose the DS the protein expression mice dataset was published. The report aims to analyse the effects of the protein which could be an important factor to have an overall effect on the recovering ability to learn amongst the mice with down syndrome.</description>
+    </item>
+    
+    <item>
+      <title>Prediction of Crime Index in USA</title>
+      <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-5/</link>
+      <pubDate>Fri, 11 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-5/</guid>
+      <description>Executive Summary   Since the beginning of humanity, we have been living in groups. These groups eventually grew into what we today call societies. Even with diversities among society all across the world, few things are always common. Crimes committed by a few of the members in the society play a negative but impactful role in the well-being of everyone in that society. In spite of the law enforcement deployed, crime still remains a big threat.</description>
+    </item>
+    
+    <item>
+      <title>Visualisation of Covid-19 Cases in NSW with postcodes</title>
+      <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/post/chapter-4/</guid>
+      <description>Link to Data Source
+Link to Shiny App</description>
+    </item>
+    
+  </channel>
+</rss>
