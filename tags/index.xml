@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kanishka Tamang</title>
-    <link>https://github.com/KanishkaTamang/Machine-Learning-Projects.git/tags/</link>
+    <link>https://kanishkatamang.github.io/kanishka_portfolio/tags/</link>
     <description>Recent content in Tags on Kanishka Tamang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/KanishkaTamang/Machine-Learning-Projects.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://kanishkatamang.github.io/kanishka_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
